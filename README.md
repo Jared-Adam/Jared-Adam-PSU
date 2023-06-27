@@ -1,8 +1,5 @@
 <!--
-**Jared-Adam-PSU/Jared-Adam-PSU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+My name is Jared Adam and I am currently a master's student in the Entomology Department At Penn State.
 - 🔭 I’m currently working on
     - Evaluating how cover crops influence arthropod-natural enemy populations with different agronmic cropping systems 
     - I am most interested in true spiders and their role withim the IPM toolbox 
