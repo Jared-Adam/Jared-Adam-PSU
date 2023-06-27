@@ -1,4 +1,3 @@
-<!--
 My name is Jared Adam and I am currently a master's student in the Entomology Department At Penn State.
 - 🔭 I’m currently working on
     - Evaluating how cover crops influence arthropod-natural enemy populations with different agronmic cropping systems 
@@ -14,5 +13,3 @@ My name is Jared Adam and I am currently a master's student in the Entomology De
     - SPIDERS
 - 📫 How to reach me: 
     - Via email at Jared *dot* Adam *at* psu *dot* edu
-
--->
