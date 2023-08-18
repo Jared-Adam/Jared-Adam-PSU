@@ -19,4 +19,4 @@ I am hoping to begin a PhD out of Penn State shortly after completing my master'
 - 💬 Ask me about 
     - SPIDERS
 - 📫 How to reach me: 
-    - Via email (Jared *dot* Adam *at* psu *dot* edu)
+    - Via email (Jared Adam *at* psu *dot* edu)
