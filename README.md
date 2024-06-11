@@ -2,7 +2,7 @@ My name is Jared Adam and I am currently a master's student in the Entomology De
 
 Along with this, I am currently wokring on several smaller projects to evaluate the contributions of true spiders in biological control of conventional corn and soybean systems. 
 
-I am planning to join the LRES department at Montana State for a PhD with Will Wetzel in Fall 2024.
+I am joining the LRES department at Montana State for a PhD with Will Wetzel in Fall 2024.
 
 
 - 🔭 I’m currently working on
